@@ -1,0 +1,4 @@
+void *mem = malloc(1024+15);
+void *ptr = ((uint ptr_t)mem+15) & ~(uint ptr_t) 0x0f;
+memset_16aligned(ptr,0,1024);
+free(mem);
