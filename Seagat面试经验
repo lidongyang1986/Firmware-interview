@@ -1,0 +1,7 @@
+1. 2D的点连成线的数目
+2. NVMe分开IO stream by Nand. seperate Channel with GC 责任区域
+3. Firmware performce分析的内容，是找出firmware中性能的bottle neck的部分
+4. Nand flash的结构channel，die, block，page
+5. wear leveling, write aplilify
+6. 1001中1的个数，其中位数很大
+7. 1001,1010中的weight的值相等|x-y|最小。用相邻位的swap.
